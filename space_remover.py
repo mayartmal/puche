@@ -1,4 +1,4 @@
-greet = '      Hello   '
+greet = '   Hello   '
 print(greet.lstrip())
 print(greet.rstrip())
 clear_freet = greet.lstrip()
